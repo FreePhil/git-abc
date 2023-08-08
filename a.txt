@@ -1,4 +1,7 @@
 master - append one line 
 master - append second line
 Hello World!
+develop - add the third line
+develop - add another line
+master - insert 3th line for master
 develop - add new line
