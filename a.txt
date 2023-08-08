@@ -1,6 +1,1 @@
-master - append one line 
-master - append second line
-Hello World!
-develop - add the third line
-develop - add another line
-develop - add new line
+change all for develop
